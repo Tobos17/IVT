@@ -34,7 +34,25 @@ namespace Login
             var users = File.ReadAllLines(loginPage.FilePath).Skip(1).Select(line => line.Split(','));
             var user = users.FirstOrDefault(u => u[0] == username);
 
-            usr.Text = username;
+            UpdateLoginPage(user);
+        }
+
+        private void Exit_Click(object sender, RoutedEventArgs e)
+        {
+            LoginPage loginPage = new LoginPage();
+            loginPage.ShowDialog();
+
+            string username = loginPage._username;
+
+            var users = File.ReadAllLines(loginPage.FilePath).Skip(1).Select(line => line.Split(','));
+            var user = users.FirstOrDefault(u => u[0] == username);
+
+            UpdateLoginPage(user);
+        }
+
+        private void UpdateLoginPage (string[] user)
+        {
+            usr.Text = user[0];
             fvq.Text = user[2];
             string userPhotoPath = user[3];
 
@@ -50,12 +68,5 @@ namespace Login
             }
         }
 
-        private void Exit_Click(object sender, RoutedEventArgs e)
-        {
-            LoginPage loginPage = new LoginPage();
-            loginPage.ShowDialog();
-            usr.Text = loginPage._username;
-
-        }
     }
 }
