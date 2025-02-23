@@ -1,0 +1,14 @@
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore all .env files
+.env
+
+# Ignore specific file
+secret.txt
+
+# Ignore all files in a directory
+folder_to_ignore/

@@ -1,0 +1,89 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.main {
+  background-color: black;
+  color: white;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  overflow: hidden;
+}
+
+.sec {
+  max-width: 85%;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.1);
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.2);
+}
+
+.sec form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+label {
+  font-size: 1.5rem;
+  font-weight: bold;
+  display: block;
+  user-select: none;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 1rem;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  outline: none;
+}
+
+input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+}
+
+button {
+  padding: 0.5rem 1.5rem;
+  margin-top: 1rem;
+  font-size: 1rem;
+  font-weight: bold;
+  background: white;
+  color: black;
+  border: none;
+  border-radius: 1rem;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  background: gray;
+  color: white;
+}
+
+.content {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding-top: 1.5rem;
+  font-size: 1.2rem;
+}
+
+.content h1 {
+  margin-top: 0.5rem;
+}
