@@ -1,0 +1,14 @@
+C:\Users\stoul\Documents\c#\backtrack\backtrack\bin\Debug\net8.0\backtrack.exe
+C:\Users\stoul\Documents\c#\backtrack\backtrack\bin\Debug\net8.0\backtrack.deps.json
+C:\Users\stoul\Documents\c#\backtrack\backtrack\bin\Debug\net8.0\backtrack.runtimeconfig.json
+C:\Users\stoul\Documents\c#\backtrack\backtrack\bin\Debug\net8.0\backtrack.dll
+C:\Users\stoul\Documents\c#\backtrack\backtrack\bin\Debug\net8.0\backtrack.pdb
+C:\Users\stoul\Documents\c#\backtrack\backtrack\obj\Debug\net8.0\backtrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoul\Documents\c#\backtrack\backtrack\obj\Debug\net8.0\backtrack.AssemblyInfoInputs.cache
+C:\Users\stoul\Documents\c#\backtrack\backtrack\obj\Debug\net8.0\backtrack.AssemblyInfo.cs
+C:\Users\stoul\Documents\c#\backtrack\backtrack\obj\Debug\net8.0\backtrack.csproj.CoreCompileInputs.cache
+C:\Users\stoul\Documents\c#\backtrack\backtrack\obj\Debug\net8.0\backtrack.dll
+C:\Users\stoul\Documents\c#\backtrack\backtrack\obj\Debug\net8.0\refint\backtrack.dll
+C:\Users\stoul\Documents\c#\backtrack\backtrack\obj\Debug\net8.0\backtrack.pdb
+C:\Users\stoul\Documents\c#\backtrack\backtrack\obj\Debug\net8.0\backtrack.genruntimeconfig.cache
+C:\Users\stoul\Documents\c#\backtrack\backtrack\obj\Debug\net8.0\ref\backtrack.dll
