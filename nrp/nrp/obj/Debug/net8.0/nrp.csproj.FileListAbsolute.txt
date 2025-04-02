@@ -1,0 +1,14 @@
+C:\Users\stoul\Documents\c#\nrp\nrp\bin\Debug\net8.0\nrp.exe
+C:\Users\stoul\Documents\c#\nrp\nrp\bin\Debug\net8.0\nrp.deps.json
+C:\Users\stoul\Documents\c#\nrp\nrp\bin\Debug\net8.0\nrp.runtimeconfig.json
+C:\Users\stoul\Documents\c#\nrp\nrp\bin\Debug\net8.0\nrp.dll
+C:\Users\stoul\Documents\c#\nrp\nrp\bin\Debug\net8.0\nrp.pdb
+C:\Users\stoul\Documents\c#\nrp\nrp\obj\Debug\net8.0\nrp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stoul\Documents\c#\nrp\nrp\obj\Debug\net8.0\nrp.AssemblyInfoInputs.cache
+C:\Users\stoul\Documents\c#\nrp\nrp\obj\Debug\net8.0\nrp.AssemblyInfo.cs
+C:\Users\stoul\Documents\c#\nrp\nrp\obj\Debug\net8.0\nrp.csproj.CoreCompileInputs.cache
+C:\Users\stoul\Documents\c#\nrp\nrp\obj\Debug\net8.0\nrp.dll
+C:\Users\stoul\Documents\c#\nrp\nrp\obj\Debug\net8.0\refint\nrp.dll
+C:\Users\stoul\Documents\c#\nrp\nrp\obj\Debug\net8.0\nrp.pdb
+C:\Users\stoul\Documents\c#\nrp\nrp\obj\Debug\net8.0\nrp.genruntimeconfig.cache
+C:\Users\stoul\Documents\c#\nrp\nrp\obj\Debug\net8.0\ref\nrp.dll
